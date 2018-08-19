@@ -76,7 +76,7 @@ The train dataset contains labelled records, ie. their classes are known.
 
 4.Commit the changes to your branch.
 
-5.Make a pull request to the **challenge1_HowCrispCanYouClassify** Repo.
+5.Make a pull request to the **challenge2_ViewFromTheTop** Repo.
 
 
 ##### Dataset Details
